@@ -1,0 +1,7 @@
+<DOCTYPE html>
+    <html>
+        <body>
+            <p> This text is Normal.</p>
+            <p><strong>This Text is Important!</strong></p>
+        </body>
+    </html>
